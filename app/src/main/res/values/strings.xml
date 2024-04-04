@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">MovieLibrary</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="movies_menu_item">Movies</string>
+    <string name="favourites_menu_item">Favourites</string>
+    <string name="profile_menu_item">Profile</string>
+    <string name="movie_item_image_view_description">Poster of the movie</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="view_pager_image_description">View pager image</string>
+    <string name="add_to_favourites_button_text">Add to favourites</string>
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="register_instead">Register</string>
+    <string name="register">Register</string>
+    <string name="login_instead">Login</string>
+    <string name="remove_from_favourites">Remove from favourites</string>
+    <string name="add_to_favourites">Add to favourites</string>
+    <string name="your_profile">Your profile</string>
+    <string name="first_name">First name:</string>
+</resources>
